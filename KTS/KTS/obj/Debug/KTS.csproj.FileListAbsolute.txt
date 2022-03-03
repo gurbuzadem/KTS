@@ -1,0 +1,9 @@
+E:\kodlar\KTS\KTS\KTS\bin\Debug\KTS.exe.config
+E:\kodlar\KTS\KTS\KTS\bin\Debug\KTS.exe
+E:\kodlar\KTS\KTS\KTS\bin\Debug\KTS.pdb
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.csprojAssemblyReference.cache
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.Properties.Resources.resources
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.csproj.GenerateResource.cache
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.csproj.CoreCompileInputs.cache
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.exe
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.pdb
