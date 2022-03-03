@@ -7,3 +7,4 @@ E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.csproj.GenerateResource.cache
 E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.csproj.CoreCompileInputs.cache
 E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.exe
 E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.pdb
+E:\kodlar\KTS\KTS\KTS\obj\Debug\KTS.Form1.resources
